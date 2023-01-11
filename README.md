@@ -9,7 +9,7 @@
 
 - 🔭 Eu atualmente estou realizando projeto junto a **DNC.Group**
 
-- 🌱 Atualmente estou aprendendo **Machine Learning, Power BI e MongoDB**
+- 🌱 Atualmente estou aprendendo **Deep Learning e AWS**
 
 - 📫 Contate-me no e-mail **imcoelho21@gmail.com**
 
