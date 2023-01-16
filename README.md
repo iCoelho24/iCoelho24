@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Eu atualmente estou realizando projeto junto a **DNC.Group**
-
 - 🌱 Atualmente estou aprendendo **Deep Learning e AWS**
 
 - 📫 Contate-me no e-mail **imcoelho21@gmail.com**
