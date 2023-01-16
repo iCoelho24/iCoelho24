@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 Meu nome é Igor</h1>
-<h3 align="center">Cientista de dados apaixonado pelo que faz!</h3>
+<h3 align="center">Cientista de dados</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icoelho24&label=Profile%20views&color=0e75b6&style=flat" alt="icoelho24" /> </p>
 
